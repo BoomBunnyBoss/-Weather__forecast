@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "package-lock-only": "^0.0.4"
+  },
+  "name": "frontend__pro",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoomBunnyBoss/-Weather__forecast.git"
+  },
+  "author": "ZhekaShapka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoomBunnyBoss/-Weather__forecast/issues"
+  },
+  "homepage": "https://github.com/BoomBunnyBoss/-Weather__forecast#readme",
+  "description": ""
+}
